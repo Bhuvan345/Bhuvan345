@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bhuvan345
 - 👀 I’m interested in programming, AL, ML. 
-- 🌱 I’m currently learning Diplamo in CSE
+- 🌱 I’m currently learning Diplamo in ISE
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me abhuvan345@gmail.co.
 
